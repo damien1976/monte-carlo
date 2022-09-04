@@ -9,8 +9,8 @@ On doit disposer d'un test indiquant, pour chaque point, s'il appartient ou non 
 
 Dans le cas des polygones dont la surface est définie par les sommets du polygone sous forme d'une liste de points, la difficulté consiste à trouver un test indiquant si le point généré aléatoirement est intérieur ou extérieur à la surface considérée. 
 L'idée retenue ici consiste à déterminer la somme des angles orientés sous lesquels sont vus deux sommets consécutifs du polygone depuis le point généré aléatoirement : 
-- Si cette somme est un multiple de $$2 \times pi $$ et que ce multiple est pair alors le point est extérieur au polygone ;
-- Si cette somme est un multiple de $$2 \times pi $$ et que ce multiple est impair alors le point est intérieur au polygone.
+- Si cette somme est un multiple de $2 \times Pi$ et que ce multiple est pair alors le point est extérieur au polygone ;
+- Si cette somme est un multiple de $$2 \times Pi $$ et que ce multiple est impair alors le point est intérieur au polygone.
 
 ![image](https://user-images.githubusercontent.com/46868436/188307241-9f0c8be1-f879-4885-8cb0-c5396e88ef4c.png)
 
