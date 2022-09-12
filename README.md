@@ -18,5 +18,5 @@ L'idée retenue ici consiste à déterminer la somme des angles orientés sous l
 
 Dans le même ordre d'idée, on présente aussi l'expérience de l'aiguille de Buffon qui consiste à laisser tomber et compter le nombre d'aiguilles coupant les lignes d'un plancher. Le rapport entre ce nombre et le nombre total d'aiguilles doit s'approcher de $\frac{2l}{n\pi }$ où $l$ est la longueur des aiguilles et $n$ représente l'écartement de deux lignes consécutives du plancher. 
 
-![image](https://user-images.githubusercontent.com/46868436/189619532-36e592c0-eec6-46d1-a58d-991bf444cf41.png)
+![image](https://user-images.githubusercontent.com/46868436/189622776-1b04e473-11f2-43c7-9504-1bbff2e11304.png)
 
