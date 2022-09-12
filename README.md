@@ -2,7 +2,7 @@
 Programmation de la méthode de Monte-Carlo pour le calcul d'aires.
 
 La méthode de Monte-Carlo est une méthode probabiliste consistant à répéter une expérience un grand nombre de fois pour en déduire des valeurs approchées d'aires.
-L'idée est de choisir uniformément au hasard un grand nombre de points dans une surface d'aire connue (Le grand cérré dans la figure ci-dessous) englobant la surface dont on veut calculer l'aire (la surface bleue dans la figure ci-dessous).
+L'idée est de choisir uniformément au hasard un grand nombre de points dans une surface d'aire connue (Le grand carré dans la figure ci-dessous) englobant la surface dont on veut calculer l'aire (la surface bleue dans la figure ci-dessous).
 On doit disposer d'un test indiquant, pour chaque point, s'il appartient ou non à la surface dont on veut calculer l'aire. Le rapport entre le nombre de points appartenant à cette surface et le nombre de points total donnera une approximation de l'aire recherchée. 
 
 ![image](https://user-images.githubusercontent.com/46868436/188307064-77272333-597c-4489-b02a-b25aae09f024.png)
@@ -15,3 +15,8 @@ L'idée retenue ici consiste à déterminer la somme des angles orientés sous l
 ![image](https://user-images.githubusercontent.com/46868436/188307241-9f0c8be1-f879-4885-8cb0-c5396e88ef4c.png)
 
 ![image](https://user-images.githubusercontent.com/46868436/188307271-082ab8d9-1e82-47a1-b9a6-638a2c064ff0.png)
+
+Dans le même ordre d'idée, on présente aussi l'expérience de l'aiguille de Buffon qui consiste à laisser tomber et compter le nombre d'aiguilles coupant les lignes d'un plancher. Ce nombre doit s'approcher de $\frac{2l}{n\pi }$ où $l$ est la longueur des aiguilles et $n$ représente l'écartement de deux lignes consécutives du plancher. 
+
+![image](https://user-images.githubusercontent.com/46868436/189619532-36e592c0-eec6-46d1-a58d-991bf444cf41.png)
+
