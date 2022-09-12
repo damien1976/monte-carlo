@@ -16,7 +16,7 @@ L'idée retenue ici consiste à déterminer la somme des angles orientés sous l
 
 ![image](https://user-images.githubusercontent.com/46868436/188307271-082ab8d9-1e82-47a1-b9a6-638a2c064ff0.png)
 
-Dans le même ordre d'idée, on présente aussi l'expérience de l'aiguille de Buffon qui consiste à laisser tomber et compter le nombre d'aiguilles coupant les lignes d'un plancher. Ce nombre doit s'approcher de $\frac{2l}{n\pi }$ où $l$ est la longueur des aiguilles et $n$ représente l'écartement de deux lignes consécutives du plancher. 
+Dans le même ordre d'idée, on présente aussi l'expérience de l'aiguille de Buffon qui consiste à laisser tomber et compter le nombre d'aiguilles coupant les lignes d'un plancher. Le rapport entre ce nombre et le nombre total d'aiguilles doit s'approcher de $\frac{2l}{n\pi }$ où $l$ est la longueur des aiguilles et $n$ représente l'écartement de deux lignes consécutives du plancher. 
 
 ![image](https://user-images.githubusercontent.com/46868436/189619532-36e592c0-eec6-46d1-a58d-991bf444cf41.png)
 
