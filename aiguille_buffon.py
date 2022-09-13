@@ -1,7 +1,6 @@
 import matplotlib.pyplot as plt
 from random import uniform
 from math import pi, cos, sin, floor
-from numpy import where, empty
 
 # Nombre de lignes du plancher
 n=5
